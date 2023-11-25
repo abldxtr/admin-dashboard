@@ -38,6 +38,7 @@ export default function Sidebar() {
             className=" object-cover   "
           />
         </div>
+        {/* clss */}
         <span className="text-[20px] text-white font-medium uppercase hidden lg:flex   ">
           James doe
         </span>
